@@ -1,6 +1,6 @@
 ﻿# Automating mix design for 3D concrete printing applications
 
-The author of this code is Vasileios Sergis (vasileios.sergis.1@ens.etsmtl.ca) and the code was written as part of the Ph.D. at École de technologie supérieure, Université du Québec, directed by Professor Claudiane Ouellet-Plamondon (Claudiane.Ouellet-Plamondon@etsmtl.ca). The funding organizations acknowledged are Fonds de recherche du Québec – Nature et Technologies and the Canada Research Chair Program.
+The author of this code* is Vasileios Sergis (vasileios.sergis.1@ens.etsmtl.ca) and the code was written as part of the Ph.D. at École de technologie supérieure, Université du Québec, directed by Professor Claudiane Ouellet-Plamondon (Claudiane.Ouellet-Plamondon@etsmtl.ca). The funding organizations acknowledged are Fonds de recherche du Québec – Nature et Technologies and the Canada Research Chair Program.
 
 The files in this repository are the supporting information for the article: _Sergis, V. and C.M. Ouellet-Plamondon, Automating mix design for 3D printing applications using optimization methods. Digital Discovery 2022_
 
