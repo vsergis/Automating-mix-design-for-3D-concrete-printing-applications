@@ -6,6 +6,8 @@ The files in this repository are the supporting information for the article: _Se
 
 Please cite the article when using the files of this repository. 
 
+*MATLAB version 9.9 (R2020b).
+
 ## Project description
 The development of 3D printable cement-based materials is a complex process with a variety of competing objectives. The compositions formed are far more complex than in conventional concrete, increasing the difficulty in designing mixtures for 3D concrete printing. Aiming towards an optimal design has always been a challenge. In this study, optimization methods are employed to improve the properties of 18 cement-based mixtures obtained from a D-optimal mix design. The three targets are the improvement of the workability, buildability, and compressive strength. In total, three types of cement, three types of sand and five admixtures are investigated, including superplasticizers. Feedforward neural networks are used to predict the properties of new mixes. To evaluate the performance of the models, the normalized root mean square error and coefficient of determination are calculated. The genetic algorithm is employed to optimize the network hyperparameters, and the Pareto-optimization algorithm is used to simultaneously optimize the values of the three properties.
 
